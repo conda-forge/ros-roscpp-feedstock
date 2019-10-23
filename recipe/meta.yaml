@@ -24,6 +24,7 @@ requirements:
   host:
     - ros-conda-mutex * melodic
     - ros-conda-base
+    - python
     - catkin_pkg
     - ros-rostime
     - pkg-config
@@ -40,6 +41,7 @@ requirements:
   run:
     - ros-conda-mutex * melodic
     - ros-conda-base
+    - python
     - ros-rostime
     - ros-std-msgs
     - ros-roscpp-serialization
