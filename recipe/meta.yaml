@@ -26,6 +26,7 @@ requirements:
     - ros-conda-base
     - python
     - catkin_pkg
+    - boost-cpp
     - ros-rostime
     - pkg-config
     - ros-std-msgs
