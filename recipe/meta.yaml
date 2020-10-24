@@ -6,8 +6,6 @@ source:
   url: https://github.com/ros-gbp/ros_comm-release/archive/release/melodic/roscpp/1.14.10-1.tar.gz
   fn: ros-roscpp-1.14.10.tar.gz
   sha256: 1d195e27879effecc7bc19596f5f95e52b24d17d97062491acd91739f9fb5eac
-  patches:
-    - remove_signals.patch
 
 build:
   number: 0
